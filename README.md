@@ -16,4 +16,4 @@ Access the app in your browser.
 Contributing:
 Feel free to contribute by opening issues, suggesting enhancements, or submitting pull requests.
 
-![Screenshot](https://github.com/farooqshaik296/ATS-Resume-Expert/images/Screenshot 2024-01-22 151857.png)
+
